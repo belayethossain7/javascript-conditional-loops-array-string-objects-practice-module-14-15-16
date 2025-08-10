@@ -34,3 +34,4 @@ console.log(friend.join('+'));
 console.log(friend.concat(nums));
 
 console.log(friend.slice(2,4));
+
